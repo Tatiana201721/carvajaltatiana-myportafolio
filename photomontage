@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	
+<head>
+	<title>Week 4</title>
+<head/>
+
+<body>
+	<H1>Shallow</H1>
+	<img src="imagen/shadow.JPG"  width="1080" alt="Description of image"/>
+	<H1>Shallaw after</H1>
+	<img src="imagen/secondraw.png"  width="1080" alt="Description of image"/>
+<body/>
+<html/>
